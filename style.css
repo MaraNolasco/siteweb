@@ -22,10 +22,10 @@
 }
 
 .escola{
-    background-image: linear-gradient(#354560,#16CCF8);
+    background-image: linear-gradient(#334970,#16CCF8);
     color:white;
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items:center;
     padding: 24px 0;
 }
